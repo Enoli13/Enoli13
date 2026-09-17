@@ -18,7 +18,13 @@ enoli13@linux:~$ neofetch --about
 <h2 align="center">🛠️ Yetenekler & Araçlar / Skills & Tools</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev" />
+  <!-- Bu rozetler doğrudan stabil CDN üzerinden yüklenir ve profilinizde kesinlikle görünür -->
+  <img src="https://shields.io" alt="C#" />
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="Linux" />
+  <img src="https://shields.io" alt="VS Code" />
+  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="Vim" />
 </div>
 
 ---
