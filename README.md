@@ -18,7 +18,6 @@ enoli13@linux:~$ neofetch --about
 <h2 align="center">🛠️ Yetenekler & Araçlar / Skills & Tools</h2>
 
 <div align="center">
-  <!-- Bu ikonlar doğrudan GitHub'ın kendi sunucularından yüklendiği için asla hata vermez -->
   <img src="https://skillicons.dev" />
 </div>
 
