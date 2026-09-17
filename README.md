@@ -18,13 +18,13 @@ enoli13@linux:~$ neofetch --about
 <h2 align="center">🛠️ Yetenekler & Araçlar / Skills & Tools</h2>
 
 <div align="center">
- 
-  <img src="https://githubusercontent.com" alt="C#" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://githubusercontent.com" alt="Python" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://githubusercontent.com" alt="Linux" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://githubusercontent.com" alt="VS Code" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://githubusercontent.com" alt="Git" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://githubusercontent.com" alt="Vim" width="50" height="50" />
+
+  <img src="https://iconify.design" width="50" height="50" />&nbsp;
+  <img src="https://iconify.design" width="50" height="50" />&nbsp;
+  <img src="https://iconify.design" width="50" height="50" />&nbsp;
+  <img src="https://iconify.design" width="50" height="50" />&nbsp;
+  <img src="https://iconify.design" width="50" height="50" />&nbsp;
+  <img src="https://iconify.design" width="50" height="50" />
 </div>
 
 ---
