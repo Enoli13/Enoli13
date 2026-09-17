@@ -1,54 +1,36 @@
-<div align="center">
-  <h1>👋 Merhaba, ben Enes Kurucu</h1>
-  <h3>Kodlama ile Uğraşan Biri | Linux Kullanıcısı</h3>
+<h1 data-importer="text" align="center">Hey 👋Merhaba!</h1>
+
+###
+
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="60" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="60" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="60" alt="godot logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="60" alt="unity logo"  />
 </div>
 
-<h2 align="center">👨‍💻 Hakkımda</h2>
+###
 
-```bash
-enoli13@linux:~$ neofetch --about
-
-> İsim: Enes Kurucu
-> OS: Linux
-> Odak: Python & C#
-```
-
----
-
-<h2 align="center">🛠️ Yetenekler & Araçlar / Skills & Tools</h2>
-
-<div align="center">
-  <!-- GitHub sunucularında barındırılan resmi ve kırılmayan logolar -->
-  <a href="https://microsoft.com"><img src="https://githubusercontent.com" alt="C#" width="50" height="50" /></a>&nbsp;&nbsp;
-  <a href="https://python.org"><img src="https://githubusercontent.com" alt="Python" width="50" height="50" /></a>&nbsp;&nbsp;
-  <a href="https://linux.org"><img src="https://githubusercontent.com" alt="Linux" width="50" height="50" /></a>&nbsp;&nbsp;
-  <a href="https://visualstudio.com"><img src="https://githubusercontent.com" alt="VS Code" width="50" height="50" /></a>&nbsp;&nbsp;
-  <a href="https://git-scm.com"><img src="https://githubusercontent.com" alt="Git" width="50" height="50" /></a>&nbsp;&nbsp;
-  <a href="https://vim.org"><img src="https://githubusercontent.com" alt="Vim" width="50" height="50" /></a>
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=Enoli13&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/Enoli13/Enoli13/trophy-output/trophy.svg?theme=nord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
----
+###
 
-<h2 align="center">🚀 Seçili Projeler</h2>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Enoli13/Enoli13/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Enoli13/Enoli13/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Enoli13/Enoli13/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
-| Proje İsmi | Açıklama | Teknoloji |
-|:---|:---|:---|
-| **[msi-control-center-Fan](https://github.com)** | Linux sistemler için MSI laptop fan kontrolcüsü yardımcı programı. | `Python` `Linux` `System` |
-
----
-
-<h2 align="center">🇬🇧 About Me (English)</h2>
-
-```bash
-enoli13@archlinux:~$ neofetch --about
-
-> Name: Enes Kurucu
-> OS: Linux
-> Focus: Python & C#
-```
-
-<h2 align="center">🚀 Selected Projects</h2>
-
-| Project Name | Description | Tech |
-|:---|:---|:---|
-| **[msi-control-center-Fan](https://github.com)** | MSI Laptop Fan Controller utility for Linux systems. | `Python` `Linux` `System` |
+###
