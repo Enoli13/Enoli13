@@ -18,13 +18,13 @@ enoli13@linux:~$ neofetch --about
 <h2 align="center">🛠️ Yetenekler & Araçlar / Skills & Tools</h2>
 
 <div align="center">
-
-  <img src="https://iconify.design" width="50" height="50" />&nbsp;
-  <img src="https://iconify.design" width="50" height="50" />&nbsp;
-  <img src="https://iconify.design" width="50" height="50" />&nbsp;
-  <img src="https://iconify.design" width="50" height="50" />&nbsp;
-  <img src="https://iconify.design" width="50" height="50" />&nbsp;
-  <img src="https://iconify.design" width="50" height="50" />
+  <!-- GitHub sunucularında barındırılan resmi ve kırılmayan logolar -->
+  <a href="https://microsoft.com"><img src="https://githubusercontent.com" alt="C#" width="50" height="50" /></a>&nbsp;&nbsp;
+  <a href="https://python.org"><img src="https://githubusercontent.com" alt="Python" width="50" height="50" /></a>&nbsp;&nbsp;
+  <a href="https://linux.org"><img src="https://githubusercontent.com" alt="Linux" width="50" height="50" /></a>&nbsp;&nbsp;
+  <a href="https://visualstudio.com"><img src="https://githubusercontent.com" alt="VS Code" width="50" height="50" /></a>&nbsp;&nbsp;
+  <a href="https://git-scm.com"><img src="https://githubusercontent.com" alt="Git" width="50" height="50" /></a>&nbsp;&nbsp;
+  <a href="https://vim.org"><img src="https://githubusercontent.com" alt="Vim" width="50" height="50" /></a>
 </div>
 
 ---
