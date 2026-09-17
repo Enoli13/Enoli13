@@ -1,36 +1,40 @@
-<h1 data-importer="text" align="center">Hey 👋Merhaba!</h1>
+# Hello, There, I'm Enes Kurucu
 
-###
+## Skills
 
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="60" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="60" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="60" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="60" alt="unity logo"  />
-</div>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>&nbsp;
+</p>
 
-###
+## Projects
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=Enoli13&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/Enoli13/Enoli13/trophy-output/trophy.svg?theme=nord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+### MSI Fan Control Center
 
-###
+Linux (CachyOS/Arch) tabanlı işletim sistemlerinde çalışan MSI laptoplar için geliştirilmiş, hafif, güvenli ve modern bir fan performans yönetim uygulamasıdır. Python ve PySide6 (Qt6) mimarisiyle geliştirilmiştir.
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Enoli13/Enoli13/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Enoli13/Enoli13/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Enoli13/Enoli13/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+[View Project](https://github.com/Enoli13/msi-control-center-Fan.git)
 
-###
+---
+
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Enoli13&show_icons=true&count_private=true&theme=null" alt="GitHub Statistics" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enoli13&layout=compact&theme=null" alt="Most used languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Enoli13&theme=null" alt="GitHub Streak" />
+
+<img src="https://profile-counter.glitch.me/Enoli13/count.svg?" alt="visitors count" />
+
+## GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Enoli13" alt="trophy" />
+
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Enoli13&radius=16&theme=github&area=true&order=5" height="300" alt="activity-graph" />
+
