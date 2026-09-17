@@ -1,40 +1,71 @@
-# Hello, There, I'm Enes Kurucu
+<div data-importer="image" align="center">
+  <img data-importer="image" height="239" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDF5M2hqM3QwaDQ1dzdwenQyazk4c2xrMzBoeGZzcGtuMTd6dnFtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  />
+</div>
 
-## Skills
+###
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>&nbsp;
-</p>
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=Enoli13.Enoli13&"  />
+</div>
 
-## Projects
+###
 
-### MSI Fan Control Center
+<h1 data-importer="text" align="center">hello there 👋</h1>
 
-Linux (CachyOS/Arch) tabanlı işletim sistemlerinde çalışan MSI laptoplar için geliştirilmiş, hafif, güvenli ve modern bir fan performans yönetim uygulamasıdır. Python ve PySide6 (Qt6) mimarisiyle geliştirilmiştir.
+###
 
-[View Project](https://github.com/Enoli13/msi-control-center-Fan.git)
+<h3 data-importer="text" align="left">👩‍💻  Hakkımda</h3>
 
----
+###
 
-## GitHub Stats
+<p data-importer="text" align="left">Ben Enes Kurucu<br><br>- Oyun Geliştiriyorum<br>- 📚 Kodlama Öğreniyorum</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Enoli13&show_icons=true&count_private=true&theme=null" alt="GitHub Statistics" />
+###
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enoli13&layout=compact&theme=null" alt="Most used languages" />
+<h1 data-importer="text" align="center">🛠 Diller ve Araçlar | Language and tools</h1>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Enoli13&theme=null" alt="GitHub Streak" />
+###
 
-<img src="https://profile-counter.glitch.me/Enoli13/count.svg?" alt="visitors count" />
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="60" alt="godot logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="60" alt="unity logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="60" alt="vim logo"  />
+</div>
 
-## GitHub Trophies
+###
 
-<img src="https://github-profile-trophy.vercel.app/?username=Enoli13" alt="trophy" />
+<h3 data-importer="text" align="left">İstatistik | My Stat:</h3>
 
-## GitHub Activity Graph
+###
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Enoli13&radius=16&theme=github&area=true&order=5" height="300" alt="activity-graph" />
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=Enoli13&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Enoli13/Enoli13/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Enoli13/Enoli13/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Enoli13/Enoli13/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
