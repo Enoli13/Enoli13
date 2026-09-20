@@ -21,7 +21,10 @@
 <p data-importer="text" align="left">Ben Enes Kurucu<br><br>- Oyun Geliştiriyorum<br>- 📚 Kodlama Öğreniyorum</p>
 
 ###
-
+| Proje İsmi | Açıklama | Teknoloji |
+|:---|:---|:---|
+| **[Msi-Fan-Control-Center]()** | Arch tabanlı linux kullanan msi laptoplar için fan kontrol sistemi | `python` |
+| **[Freedom-Lock]()** | Telefondaki Seçilen Uygulamalar Hariç Diğer Hiçbir Özelliği Kullanmanıza İzin Vermeyen Detox Kilidi | `Kotlin` `Addiction` |
 <h1 data-importer="text" align="center">🛠 Diller ve Araçlar | Language and tools</h1>
 
 ###
