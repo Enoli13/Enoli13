@@ -23,7 +23,7 @@
 ###
 | Proje İsmi | Açıklama | Teknoloji |
 |:---|:---|:---|
-| **[enolink-Turkce-Ink-Alternatifi](https://github.com/Enoli13/enolink-Turkce-Ink-Alternatifi.git)** | Metinleri, seçenekleri ve seneryoları Unity'e entegre eden Türkçe yazılım | `c#` |
+| **[enolink-Turkce-Ink-Alternatifi](https://github.com/Enoli13/enolink-Turkce-Ink-Alternatifi.git)** | Metinleri, seçenekleri ve seneryoları Unity'e entegre eden Türkçe yazılım | `c#``JavaScript` |
 | **[Msi-Fan-Control-Center](https://github.com/Enoli13/msi-control-center-Fan.git)** | Arch tabanlı linux kullanan msi laptoplar için fan kontrol sistemi | `python` |
 | **[Freedom-Lock](https://github.com/Enoli13/Ozgurluk-Kilidi-Freedom-Lock.git)** | Telefondaki Seçilen Uygulamalar Hariç Diğer Hiçbir Özelliği Kullanmanıza İzin Vermeyen Detox Kilidi | `Kotlin` `Addiction` |
 <h1 data-importer="text" align="center">🛠 Diller ve Araçlar | Language and tools</h1>
