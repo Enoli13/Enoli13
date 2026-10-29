@@ -23,6 +23,7 @@
 ###
 | Proje İsmi | Açıklama | Teknoloji |
 |:---|:---|:---|
+| **[esp32-marauder-panel](https://github.com/Enoli13/esp32-marauder-panel.git)** | Esp32 Marauder projesi için türkçe grafik arayüz panel | `Python``Shell` |
 | **[enolink-Turkce-Ink-Alternatifi](https://github.com/Enoli13/enolink-Turkce-Ink-Alternatifi.git)** | Metinleri, seçenekleri ve seneryoları Unity'e entegre eden Türkçe yazılım | `c#``JavaScript` |
 | **[Msi-Fan-Control-Center](https://github.com/Enoli13/msi-control-center-Fan.git)** | Arch tabanlı linux kullanan msi laptoplar için fan kontrol sistemi | `python` |
 | **[Freedom-Lock](https://github.com/Enoli13/Ozgurluk-Kilidi-Freedom-Lock.git)** | Telefondaki Seçilen Uygulamalar Hariç Diğer Hiçbir Özelliği Kullanmanıza İzin Vermeyen Detox Kilidi | `Kotlin` `Addiction` |
