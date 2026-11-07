@@ -23,6 +23,7 @@
 ###
 | Proje İsmi | Açıklama | Teknoloji |
 |:---|:---|:---|
+| **[Odak-Enoli13]()** | Odak ve verimli telefon kullanımı için tasarlanmış android uygulama | `Kotlin` |
 | **[esp32-marauder-panel](https://github.com/Enoli13/esp32-marauder-panel.git)** | Esp32 Marauder projesi için türkçe grafik arayüz panel | `Python``Shell` |
 | **[enolink-Turkce-Ink-Alternatifi](https://github.com/Enoli13/enolink-Turkce-Ink-Alternatifi.git)** | Metinleri, seçenekleri ve seneryoları Unity'e entegre eden Türkçe yazılım | `c#``JavaScript` |
 | **[Msi-Fan-Control-Center](https://github.com/Enoli13/msi-control-center-Fan.git)** | Arch tabanlı linux kullanan msi laptoplar için fan kontrol sistemi | `python` |
