@@ -23,11 +23,14 @@
 ###
 | Proje İsmi | Açıklama | Teknoloji |
 |:---|:---|:---|
+| **[Dopamed](https://github.com/Enoli13/Dopamed)** | Ders PDF'lerini, slaytları ve çıkmış soruları Shorts tarzı kısa kartlara, süreli düelloya ve aralıklı tekrara çeviren "sağlıklı brainrot" çalışma uygulaması ([APK](https://github.com/Enoli13/Dopamed/releases/latest)) | `JavaScript` `Capacitor` `Android` |
 | **[Odak-Enoli13](https://github.com/Enoli13/Odak.git)** | Odak ve verimli telefon kullanımı için tasarlanmış android uygulama | `Kotlin` |
-| **[esp32-marauder-panel](https://github.com/Enoli13/esp32-marauder-panel.git)** | Esp32 Marauder projesi için türkçe grafik arayüz panel | `Python``Shell` |
-| **[enolink-Turkce-Ink-Alternatifi](https://github.com/Enoli13/enolink-Turkce-Ink-Alternatifi.git)** | Metinleri, seçenekleri ve seneryoları Unity'e entegre eden Türkçe yazılım | `c#``JavaScript` |
-| **[Msi-Fan-Control-Center](https://github.com/Enoli13/msi-control-center-Fan.git)** | Arch tabanlı linux kullanan msi laptoplar için fan kontrol sistemi | `python` |
-| **[Freedom-Lock](https://github.com/Enoli13/Ozgurluk-Kilidi-Freedom-Lock.git)** | Telefondaki Seçilen Uygulamalar Hariç Diğer Hiçbir Özelliği Kullanmanıza İzin Vermeyen Detox Kilidi | `Kotlin` `Addiction` |
+| **[Anki-Android (Odak fork)](https://github.com/Enoli13/Anki-Android)** | Odak özelliklerinin AnkiDroid fork'una taşınmış hali; kartlar Anki destelerinden gelir | `Kotlin` `Android` |
+| **[esp32-marauder-panel](https://github.com/Enoli13/esp32-marauder-panel.git)** | Esp32 Marauder projesi için türkçe grafik arayüz panel | `Python` `Shell` |
+| **[enolink-Turkce-Ink-Alternatifi](https://github.com/Enoli13/enolink-Turkce-Ink-Alternatifi.git)** | Metinleri, seçenekleri ve seneryoları Unity'e entegre eden Türkçe yazılım | `C#` `JavaScript` `Electron` |
+| **[Msi-Fan-Control-Center](https://github.com/Enoli13/msi-control-center-Fan.git)** | Arch tabanlı linux kullanan msi laptoplar için fan kontrol sistemi | `Python` `PySide6` |
+| **[Freedom-Lock](https://github.com/Enoli13/Ozgurluk-Kilidi-Freedom-Lock.git)** | Telefondaki Seçilen Uygulamalar Hariç Diğer Hiçbir Özelliği Kullanmanıza İzin Vermeyen Detox Kilidi | `Kotlin` `Android` |
+
 <h1 data-importer="text" align="center">🛠 Diller ve Araçlar | Language and tools</h1>
 
 ###
@@ -48,7 +51,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="60" alt="vim logo"  />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="60" alt="kotlin logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="60" alt="android logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="60" alt="electron logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="60" alt="qt logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" alt="arduino logo"  />
 </div>
 
 ###
