@@ -30,6 +30,7 @@
 | **[enolink-Turkce-Ink-Alternatifi](https://github.com/Enoli13/enolink-Turkce-Ink-Alternatifi.git)** | Metinleri, seçenekleri ve seneryoları Unity'e entegre eden Türkçe yazılım | `C#` `JavaScript` `Electron` |
 | **[Msi-Fan-Control-Center](https://github.com/Enoli13/msi-control-center-Fan.git)** | Arch tabanlı linux kullanan msi laptoplar için fan kontrol sistemi | `Python` `PySide6` |
 | **[Freedom-Lock](https://github.com/Enoli13/Ozgurluk-Kilidi-Freedom-Lock.git)** | Telefondaki Seçilen Uygulamalar Hariç Diğer Hiçbir Özelliği Kullanmanıza İzin Vermeyen Detox Kilidi | `Kotlin` `Android` |
+| **[Özgürlük Kilidi: Bağımlılar İçin](https://github.com/Enoli13/Ozgurluk-Kilidi-Bagimlilar-Icin)** | Freedom-Lock fork'u: serbest uygulamalar dışında günde 2 saati geçince telefonu mola saatleri dışında kilitler, seçilen tarihe kadar kapatılamaz ve silinemez; kilit ekranında ve ana ekran widget'ında günlük etkinlik grafiği ([APK](https://github.com/Enoli13/Ozgurluk-Kilidi-Bagimlilar-Icin/releases/latest)) | `Kotlin` `Android` |
 
 <h1 data-importer="text" align="center">🛠 Diller ve Araçlar | Language and tools</h1>
 
